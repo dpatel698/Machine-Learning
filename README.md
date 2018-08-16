@@ -1,2 +1,3 @@
 # Machine-Learning
-My own projects related to machine learning which includes applications and my own implementations of ML algorithms.
+Projects related to the field of Machine Learning and data analysis. This includes implementations of common supervised/unsupervised ML
+algorithms and applications to problems suitable to this field.
